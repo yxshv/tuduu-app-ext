@@ -8,7 +8,7 @@ A chrome extension for https://tuduu-app.vercel.app/
 
 ### Installation
 First `git clone https://github.com/kekda-py/tuduu-app-ext` the repo then go to
-[`chrome://extensions`](chrome://extensions) and click on `Load Upacked` and select the cloned folder.
+[`chrome://extensions`](chrome://extensions) then turn on developer mode and click on `Load Upacked` and select the cloned folder.
 
 ### License
 This project is licensed under the MIT license
